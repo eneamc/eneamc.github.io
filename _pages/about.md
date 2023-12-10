@@ -22,7 +22,3 @@ I am a PhD student in Stochastic Optimization for Deep Learning under the superv
 My main interests are Stochastic Optimization, Implicit Bias, and Deep Learning Theory. In good days, I also appreciate Mathematical Finance and Reservoir Computing. 
 
 I am a great MMA fan and I love watching WWE ;)
-
-For more info
-------
-More info about our group can be found in our [Group Website](https://omls.dmi.unibas.ch/en/). 
