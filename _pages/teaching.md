@@ -1,11 +1,11 @@
 ---
 permalink: https:/eneamc.github.io/teaching/
 title: "Teaching"
-excerpt: "Talks"
+excerpt: "Teaching"
 author_profile: true
 redirect_from: 
-  - /talks/
-  - /talks.html
+  - /Teaching/
+  - /Teaching.html
 ---
 
 1. [Continuous Optimization (2024)](https://eneamc.github.io/teaching/2024co)
