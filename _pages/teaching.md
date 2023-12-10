@@ -1,5 +1,5 @@
 ---
-permalink: https:/eneamc.github.io/teaching/
+permalink: /teaching/
 title: "Teaching"
 excerpt: "Teaching"
 author_profile: true
