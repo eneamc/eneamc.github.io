@@ -1,5 +1,5 @@
 ---
-permalink: https:/eneamc.github.io/talks/
+permalink: /talks/
 title: "Invited Talks and Poster Sessions"
 excerpt: "Talks"
 author_profile: true
