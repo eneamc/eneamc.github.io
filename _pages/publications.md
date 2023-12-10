@@ -1,5 +1,5 @@
 ---
-permalink: /publications/
+permalink: https://eneamc.github.io/publications/
 title: "Publications"
 excerpt: "Publications"
 author_profile: true
