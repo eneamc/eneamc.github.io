@@ -13,10 +13,9 @@ E. Monzio Compagnoni, L. Biggio, A. Orvieto, F. N. Proske, H. Kersting, A. Lucch
 In Proc. of 40th International Conference on Machine Learning, 2023.\
 [Download paper here](http://eneamc.github.io/files/SDE_SAM.pdf)
 
-
 [3] [Risk Sharing with Deep Neural Networks](https://arxiv.org/abs/2212.11752),\
 M. Burzoni\*, A. Doldi\*, E. Monzio Compagnoni\*,\
-arXiv preprint arXiv: 2212.11752, 2023.\
+Soon to Appear on the Journal of Quantitative Finance.\
 [Download paper here](http://eneamc.github.io/files/RiskSharing.pdf)
 
 [2] [On the Effectiveness of Randomized Signatures as Reservoir for Learning Rough Dynamics](https://ieeexplore.ieee.org/abstract/document/10191624),\
