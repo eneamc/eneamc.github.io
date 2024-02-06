@@ -13,9 +13,9 @@ E. Monzio Compagnoni, A. Orvieto, H. Kersting, F. N. Proske, A. Lucchi,\
 In Proc. of International Conference on Artificial Intelligence and Statistics (AISTATS), 2024.\
 [Available Soon]()
 
-[4] [Risk Sharing with Deep Neural Networks](https://arxiv.org/abs/2212.11752),\
+[4] [Risk Sharing with Deep Neural Networks](https://doi.org/10.1080/14697688.2024.2307493),\
 M. Burzoni\*, A. Doldi\*, E. Monzio Compagnoni\*,\
-Soon to Appear on the Journal of Quantitative Finance, 2024.\
+In Journal of Quantitative Finance, 2024.\
 [Download paper here](http://eneamc.github.io/files/RiskSharing.pdf)
 
 [3] [An SDE for Modeling SAM: Theory and Insights](https://proceedings.mlr.press/v202/monzio-compagnoni23a.html),\
