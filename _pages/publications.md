@@ -8,10 +8,10 @@ redirect_from:
   - /publications.html
 ---
 
-[5] [SDEs for Minimax Optimization](),\
+[5] [SDEs for Minimax Optimization](https://arxiv.org/abs/2402.12508),\
 E. Monzio Compagnoni, A. Orvieto, H. Kersting, F. N. Proske, A. Lucchi,\
 In Proc. of International Conference on Artificial Intelligence and Statistics (AISTATS), 2024.\
-[Available Soon]()
+[Download paper here](http://eneamc.github.io/files/SDE4Minimax.pdf)
 
 [4] [Risk Sharing with Deep Neural Networks](https://doi.org/10.1080/14697688.2024.2307493),\
 M. Burzoni\*, A. Doldi\*, E. Monzio Compagnoni\*,\
