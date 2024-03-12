@@ -8,6 +8,9 @@ redirect_from:
   - /talks.html
 ---
 
+## [SDEs for Minimax Optimization](https://arxiv.org/abs/2402.12508)
+1. **Talk** at *Yahoo! Research Series*, 2024-03-12, Yahoo! Research, Web Presentation 
+
 ## [An SDE for Modeling SAM: Theory and Insights](https://proceedings.mlr.press/v202/monzio-compagnoni23a.html)
 1. **Talk** at *Connections between Stochastic Calculus, Statistical Physics, and Optimization: ELISE Research Workshop of the Program 'Theory, Algorithms and Computations of Modern Learning Systems'*, 2023-06-22, University of Tübingen, Tübingen, Germany 
 2. **Talk** at *Yahoo! Research Series*, 2023-07-17, Yahoo! Research, München, Germany 
