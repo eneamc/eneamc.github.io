@@ -8,7 +8,7 @@ redirect_from:
   - /talks.html
 ---
 
-## [SDEs for Minimax Optimization](https://arxiv.org/abs/2402.12508)
+## [SDEs for Minimax Optimization](https://proceedings.mlr.press/v238/monzio-compagnoni24a/monzio-compagnoni24a.pdf)
 1. **Talk** at *Yahoo! Research Series*, 2024-03-12, Yahoo! Research, Web Presentation 
 2. **Poster** at *International Conference on Artificial Intelligence and Statistics 2024*, 2024-05-04, Palacio de Congresos Valencia, Valencia, ES
 

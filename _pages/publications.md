@@ -8,7 +8,7 @@ redirect_from:
   - /publications.html
 ---
 
-[5] [SDEs for Minimax Optimization](https://arxiv.org/abs/2402.12508),\
+[5] [SDEs for Minimax Optimization](https://proceedings.mlr.press/v238/monzio-compagnoni24a/monzio-compagnoni24a.pdf),\
 E. Monzio Compagnoni, A. Orvieto, H. Kersting, F. N. Proske, A. Lucchi,\
 In Proc. of International Conference on Artificial Intelligence and Statistics (AISTATS), 2024.\
 [Download paper here](http://eneamc.github.io/files/SDE4Minimax.pdf)
