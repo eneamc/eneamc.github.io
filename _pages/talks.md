@@ -10,6 +10,7 @@ redirect_from:
 
 ## [SDEs for Minimax Optimization](https://arxiv.org/abs/2402.12508)
 1. **Talk** at *Yahoo! Research Series*, 2024-03-12, Yahoo! Research, Web Presentation 
+2. **Poster** at *International Conference on Artificial Intelligence and Statistics 2024*, 2024-05-04, Palacio de Congresos Valencia, Valencia, ES
 
 ## [An SDE for Modeling SAM: Theory and Insights](https://proceedings.mlr.press/v202/monzio-compagnoni23a.html)
 1. **Talk** at *Connections between Stochastic Calculus, Statistical Physics, and Optimization: ELISE Research Workshop of the Program 'Theory, Algorithms and Computations of Modern Learning Systems'*, 2023-06-22, University of Tübingen, Tübingen, Germany 
