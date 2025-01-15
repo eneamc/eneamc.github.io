@@ -21,4 +21,4 @@ If you are looking for a highly productive and motivated individual, consider me
 I am a PhD student in Stochastic Optimization for Deep Learning under the supervision of Prof. Dr. [Aurelien Lucchi](https://omls.dmi.unibas.ch/en/persons/aurelien-lucchi/) at University of Basel, Switzerland.
 My main interests are Stochastic Optimization, Implicit Bias, and Deep Learning Theory. In good days, I also appreciate Mathematical Finance and Reservoir Computing.
 
-Lately, I have been playing around with LLMs to make the inference time cheaper: I can only tell the architecture is new! Drop me an email :)
+Lately, I have been playing around with new DP optimizers specifically tailored for LLMs where high levels of privacy is desired: Drop me an email :)
