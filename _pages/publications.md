@@ -8,6 +8,11 @@ redirect_from:
   - /publications.html
 ---
 
+[6] [Adaptive Methods through the Lens of SDEs: Theoretical Insights on the Role of Noise](https://arxiv.org/pdf/2411.15958),\
+E. Monzio Compagnoni, T. Liu, R. Islamov, F. N. Proske, A. Orvieto, A. Lucchi,\
+Preprint, 2024.\
+[Download paper here](http://eneamc.github.io/files/AdaptivePaper.pdf)
+
 [5] [SDEs for Minimax Optimization](https://proceedings.mlr.press/v238/monzio-compagnoni24a/monzio-compagnoni24a.pdf),\
 E. Monzio Compagnoni, A. Orvieto, H. Kersting, F. N. Proske, A. Lucchi,\
 In Proc. of International Conference on Artificial Intelligence and Statistics (AISTATS), 2024.\
