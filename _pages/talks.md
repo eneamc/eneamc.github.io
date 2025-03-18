@@ -1,6 +1,6 @@
 ---
 permalink: https://eneamc.github.io/talks/
-title: "Invited Talks and Poster Sessions"
+title: "Invited Talks Poster, and Oral Sessions"
 excerpt: "Talks"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 ## [Unbiased and Sign Compression in Distributed Learning: Comparing Noise Resilience via SDEs](https://openreview.net/forum?id=RRrftHtEfK)
 1. **Talk** at *Nokia*, 2025-01-29, Nokia - Bell Labs, Stuttgard
-2. **Talk** at *University of Milan*, Milan, Italy
+2. **Talk** at *University of Milan*, 2025-02-26, Milan, Italy
 3. **Talk** at *Anima Anandkumar's Lab*, 2025-03-05, Caltech, Pasadena
 4. **Oral** at *International Conference on Artificial Intelligence and Statistics 2025*, 2025-05-03, Splash Beach Resort in Mai Khao, Thailand
 
