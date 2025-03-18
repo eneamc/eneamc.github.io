@@ -8,9 +8,14 @@ redirect_from:
   - /publications.html
 ---
 
-[6] [Adaptive Methods through the Lens of SDEs: Theoretical Insights on the Role of Noise](https://arxiv.org/pdf/2411.15958),\
+[7] [Unbiased and Sign Compression in Distributed Learning: Comparing Noise Resilience via SDEs](https://openreview.net/forum?id=RRrftHtEfK),\
+E. Monzio Compagnoni, R. Islamov, F. N. Proske, A. Lucchi,\
+In Proc. of International Conference on Artificial Intelligence and Statistics (AISTATS), 2025 (Oral).\
+[Download paper here](http://eneamc.github.io/files/CompressedPaper.pdf)
+
+[6] [Adaptive Methods through the Lens of SDEs: Theoretical Insights on the Role of Noise](https://openreview.net/forum?id=ww3CLRhF1v),\
 E. Monzio Compagnoni, T. Liu, R. Islamov, F. N. Proske, A. Orvieto, A. Lucchi,\
-Preprint, 2024.\
+In Proc. of International Conference on Learning Representations (ICLR), 2025.\
 [Download paper here](http://eneamc.github.io/files/AdaptivePaper.pdf)
 
 [5] [SDEs for Minimax Optimization](https://proceedings.mlr.press/v238/monzio-compagnoni24a/monzio-compagnoni24a.pdf),\
