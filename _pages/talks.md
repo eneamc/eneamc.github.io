@@ -1,6 +1,6 @@
 ---
 permalink: https://eneamc.github.io/talks/
-title: "Invited Talks Poster, and Oral Sessions"
+title: "Invited Talks, Poster, and Oral Sessions"
 excerpt: "Talks"
 author_profile: true
 redirect_from: 
