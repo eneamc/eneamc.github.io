@@ -8,6 +8,17 @@ redirect_from:
   - /talks.html
 ---
 
+## [Unbiased and Sign Compression in Distributed Learning: Comparing Noise Resilience via SDEs](https://openreview.net/forum?id=RRrftHtEfK)
+1. **Talk** at *Nokia*, 2025-01-29, Nokia - Bell Labs, Stuttgard
+2. **Talk** at *University of Milan*, Milan, Italy
+3. **Talk** at *Anima Anandkumar's Lab*, 2025-03-05, Caltech, Pasadena
+4. **Oral** at *International Conference on Artificial Intelligence and Statistics 2025*, 2025-05-03, Splash Beach Resort in Mai Khao, Thailand
+
+## [Adaptive Methods through the Lens of SDEs: Theoretical Insights on the Role of Noise](https://openreview.net/pdf?id=ww3CLRhF1v)
+1. **Talk** at *EthonAI*, 2024-05-29, EthonAI, Zürich
+2. **Talk** at *University of Freiburg - Machine Learning Lab*, 2025-01-16, University of Freiburg, Freiburg
+3. **Poster** at *International Conference on Learning Representations 2025*, 2025-04-24, Singapore EXPO, Singapore
+
 ## [SDEs for Minimax Optimization](https://proceedings.mlr.press/v238/monzio-compagnoni24a/monzio-compagnoni24a.pdf)
 1. **Talk** at *Yahoo! Research Series*, 2024-03-12, Yahoo! Research, Web Presentation 
 2. **Poster** at *International Conference on Artificial Intelligence and Statistics 2024*, 2024-05-04, Palacio de Congresos Valencia, Valencia, ES
