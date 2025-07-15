@@ -8,6 +8,11 @@ redirect_from:
   - /publications.html
 ---
 
+[8] [On the Interaction of Noise, Compression Role, and Adaptivity under (L_0, L_1)-Smoothness: An SDE-based Approach](https://openreview.net/forum?id=u2cBOZNtcc),\
+E. Monzio Compagnoni, R. Islamov, A. Orvieto, E. Gorbunov,\
+In Proc. of High-dimensional Learning Dynamics at ICML, 2025.\
+[Download paper here](http://eneamc.github.io/files/SDE4L0L1Smoothness.pdf)
+
 [7] [Unbiased and Sign Compression in Distributed Learning: Comparing Noise Resilience via SDEs](https://openreview.net/forum?id=RRrftHtEfK),\
 E. Monzio Compagnoni, R. Islamov, F. N. Proske, A. Lucchi,\
 In Proc. of International Conference on Artificial Intelligence and Statistics (AISTATS), 2025 (Oral).\
