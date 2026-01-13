@@ -13,6 +13,7 @@ redirect_from:
 2. **Talk** at *University of Milan*, 2025-02-26, Milan, Italy
 3. **Talk** at *Anima Anandkumar's Lab*, 2025-03-05, Caltech, Pasadena
 4. **Oral** at *International Conference on Artificial Intelligence and Statistics 2025*, 2025-05-03, Splash Beach Resort in Mai Khao, Thailand
+5. **Talk** at *Bocconi University*, 2025-09-18, Milano, Italy
 
 ## [Adaptive Methods through the Lens of SDEs: Theoretical Insights on the Role of Noise](https://openreview.net/pdf?id=ww3CLRhF1v)
 1. **Talk** at *EthonAI*, 2024-05-29, EthonAI, Zürich

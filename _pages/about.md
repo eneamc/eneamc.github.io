@@ -8,26 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-# I am looking for Research Internships!
+# I am looking for Research Internships (Summer 2026)!
 
-If you are looking for a highly productive and motivated individual, consider me:
+If you are looking for a highly productive and motivated researcher, consider me:
 
-1. I do not give up when Math gets hard;
-2. I see things differently than other people.
+1. I do not give up when Math gets hard.
+2. I like finding unorthodox angles and validating them with clean experiments.
 
-**You do not want to miss out on my unorthodox creativity!**
+**I enjoy turning theory into training improvements you can measure.**
 
 ## Presentation
-I am a PhD student in Stochastic Optimization for Deep Learning under the supervision of Prof. Dr. [Aurelien Lucchi](https://omls.dmi.unibas.ch/en/persons/aurelien-lucchi/) at University of Basel, Switzerland.
-My main interests are Stochastic Optimization, Implicit Bias, and Deep Learning Theory. In good days, I also appreciate Mathematical Finance and Reservoir Computing.
-Currently, I am interning at Flexion Robotics where I developed a VLM/VLA-based agentic framework for robots to perform complex tasks in the real world.
-There I also contributed in speeding up (50% faster) and improving the performance of their training pipeline for the rough-terrain locomotion policy.
+I am a final-year PhD candidate in **Stochastic Optimization for Deep Learning** at the **University of Basel (Switzerland)**, supervised by Prof. Dr. [Aurelien Lucchi](https://omls.dmi.unibas.ch/en/persons/aurelien-lucchi/).
+
+My main interests are **stochastic optimization** and **deep learning**, and more recently **reinforcement learning for robotics**.
+
+I also have hands-on experience with **VLMs/VLAs for robotics**: at **Flexion Robotics**, I built an **agentic framework** that uses vision-language models to help robots execute multi-step tasks in real-world settings.
 
 Lately, I have been playing around with:
 
-1. Stochastic Optimizers for Deep Reinforcement Learning, including a promising modification to how AdamW is applied to the GRPO objective;
-2. New DP optimizers specifically tailored for LLMs where high levels of privacy is desired;
-3. Reasoning of LLMs: Chain-of-Thought Compression.
-
+1. **Stochastic optimizers for deep reinforcement learning**, including large-scale HPO for PPO-style training and a promising modification to how **AdamW** is applied to the **GRPO** objective.
+2. **New differentially private optimizers for LLMs**, especially regimes where strong privacy is required.
+3. **Reasoning efficiency in LLMs**, including **chain-of-thought compression**.
 
 Drop me an email :)
+**eneamonziocompagnoni@gmail.com**

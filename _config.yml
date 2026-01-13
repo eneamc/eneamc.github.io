@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Enea Monzio Compagnoni, MSc. MSc."
   avatar           : "profile.jpg"
-  bio              : "I am a motivated PhD Student in Computer Science and Mathematics. After three years in the financial sector, I decided to have some fun and take my talents elsewhere. I mix unorthodox and explosive creativity with a strongly structured working ethic. Ping me if you need to shake things up in your team!"
+  bio              : "PhD student at the University of Basel (stochastic optimization, deep learning). Previously in finance. I am persistent on hard math and relentless on experiments: theory-driven training improvements, RL for Robotics, and large-scale hyperparameter optimization."
   location         : "Zürich, Switzerland"
   employer         : "University of Basel"
   pubmed           : 

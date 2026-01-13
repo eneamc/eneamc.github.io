@@ -8,7 +8,8 @@ redirect_from:
   - /Teaching.html
 ---
 
-1. [Continuous Optimization (2024)](https://eneamc.github.io/teaching/2024co)
-2. [Foundations of Deep Learning (2023)](https://eneamc.github.io/teaching/2023dl)
-3. [Continuous Optimization (2023)](https://eneamc.github.io/teaching/2023co)
-4. [Foundations of Deep Learning (2022)](https://eneamc.github.io/teaching/2022dl)
+1. [Foundations of Deep Learning (2025)](https://eneamc.github.io/teaching/2025dl)
+2. [Continuous Optimization (2024)](https://eneamc.github.io/teaching/2024co)
+3. [Foundations of Deep Learning (2023)](https://eneamc.github.io/teaching/2023dl)
+4. [Continuous Optimization (2023)](https://eneamc.github.io/teaching/2023co)
+5. [Foundations of Deep Learning (2022)](https://eneamc.github.io/teaching/2022dl)
