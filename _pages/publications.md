@@ -8,14 +8,14 @@ redirect_from:
   - /publications.html
 ---
 
-[14] [A Diffusion Approximation for Temporal-Difference Learning with Linear Features under Markovian Noise](https://arxiv.org/abs/2606.18183),\
-M. Forzo, E. Monzio Compagnoni, A. Russo, A. Pacchiano,\
-arXiv preprint arXiv:2606.18183, 2026.\
-[Download paper here](https://arxiv.org/pdf/2606.18183)
+[14] [A Diffusion Approximation for Temporal-Difference Learning with Linear Features under Markovian Noise](https://openreview.net/forum?id=vLK7MNX5x4),\
+M. Forzo, A. Russo, E. Monzio Compagnoni, A. Pacchiano,\
+In Proc. of DEMO Workshop at ICML, 2026.\
+[Download paper here](https://openreview.net/pdf?id=vLK7MNX5x4)
 
 [13] [Frontier Learning: Training LLM Reasoners at the Edge of Capability](https://openreview.net/forum?id=DkISgnuYHU),\
 S. S. Ramesh\*, R. Faro\*, E. Monzio Compagnoni, I. Bogunovic, A. Lucchi,\
-In Proc. of ICML Workshop on Foundations of Deep Generative Models (FoGen), 2026.\
+In Proc. of Foundations of Deep Generative Models (FoGen) Workshop at ICML, 2026.\
 [Download paper here](https://openreview.net/pdf?id=DkISgnuYHU)
 
 [12] [Beyond a Single Explanation of the Adam--SGD Gap](https://arxiv.org/abs/2606.14259),\
