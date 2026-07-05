@@ -8,27 +8,7 @@ redirect_from:
   - /publications.html
 ---
 
-[12] [Beyond a Single Explanation of the Adam--SGD Gap](https://arxiv.org/abs/2606.14259),\
-C. Zhang, R. Islamov, E. Monzio Compagnoni, J. Pang, A. Lucchi, A. Orvieto,\
-arXiv preprint arXiv:2606.14259, 2026.\
-[Download paper here](https://arxiv.org/pdf/2606.14259)
-
-[11] [On the Interaction of Batch Noise, Adaptivity, and Compression, under $(L_0,L_1)$-Smoothness: An SDE Approach](https://arxiv.org/abs/2506.00181),\
-E. Monzio Compagnoni, R. Islamov, F. N. Proske, A. Lucchi, A. Orvieto, E. Gorbunov,\
-In Proc. of the Forty-Third International Conference on Machine Learning (ICML), 2026.\
-[Download paper here](https://arxiv.org/pdf/2506.00181)
-
-[10] [Adaptive Methods Are Preferable in High Privacy Settings: An SDE Perspective](https://openreview.net/forum?id=hSpA4DAoMk),\
-E. Monzio Compagnoni, A. Stanghellini, R. Islamov, A. Lucchi, A. Koloskova,\
-In Proc. of International Conference on Learning Representations (ICLR), 2026.\
-[Download paper here](https://openreview.net/pdf?id=hSpA4DAoMk)
-
-[9] [Unified Perspectives on Balancedness and Parameter-norm Evolution in Neural Nets](https://openreview.net/forum?id=KAHuXArnNt),\
-J. Singh, E. Monzio Compagnoni, A. Orvieto,\
-In Proc. of Scientific Methods for Understanding Deep Learning Workshop at ICLR, 2026.\
-[Download paper here](https://openreview.net/pdf?id=KAHuXArnNt)
-
-[8] [On the Interaction of Noise, Compression Role, and Adaptivity under $(L_0,L_1)$-Smoothness: An SDE-based Approach](https://openreview.net/forum?id=u2cBOZNtcc),\
+[8] [On the Interaction of Noise, Compression Role, and Adaptivity under (L_0, L_1)-Smoothness: An SDE-based Approach](https://openreview.net/forum?id=u2cBOZNtcc),\
 E. Monzio Compagnoni, R. Islamov, A. Orvieto, E. Gorbunov,\
 In Proc. of High-dimensional Learning Dynamics at ICML, 2025.\
 [Download paper here](http://eneamc.github.io/files/SDE4L0L1Smoothness.pdf)
