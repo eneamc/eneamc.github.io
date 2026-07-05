@@ -1,34 +1,28 @@
 ---
 permalink: /
 title: ""
-excerpt: "Mah Gawd, Ito Calculus Outta Nowhere!"
+excerpt: "Intrinsic intern; PhD candidate in stochastic optimization and deep learning, graduating October 2026."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# I am looking for Research Internships (Summer 2026)!
+# Intern at Intrinsic (Google) · PhD Candidate, graduating October 2026
 
-If you are looking for a highly productive and motivated researcher, consider me:
+I am a final-year PhD candidate in **Stochastic Optimization for Deep Learning** at the **University of Basel (Switzerland)**, supervised by Prof. Dr. [Aurelien Lucchi](https://omls.dmi.unibas.ch/en/persons/aurelien-lucchi/). I expect to graduate in **October 2026**.
 
-1. I do not give up when Math gets hard.
-2. I like finding unorthodox angles and validating them with clean experiments.
+I am currently an **Intern at Intrinsic, a robotics company of Google**, working at the intersection of **robotics**, **reinforcement learning**, and **scalable optimization**.
 
-**I enjoy turning theory into training improvements you can measure.**
+I enjoy turning theory into training improvements you can measure. My current interests are:
 
-## Presentation
-I am a final-year PhD candidate in **Stochastic Optimization for Deep Learning** at the **University of Basel (Switzerland)**, supervised by Prof. Dr. [Aurelien Lucchi](https://omls.dmi.unibas.ch/en/persons/aurelien-lucchi/).
+1. **Stochastic optimization for deep learning**, from theory to optimizer design.
+2. **Reinforcement learning for robotics**, including PPO-style training and large-scale hyperparameter optimization.
+3. **VLM/VLA systems for real-world robots**, including agentic frameworks for multi-step tasks.
+4. **Efficient and private LLM training**, including differentially private optimizers and chain-of-thought compression.
 
-My main interests are **stochastic optimization** and **deep learning**, and more recently **reinforcement learning for robotics**.
+Before Intrinsic, I worked on robotics/VLM systems at **Flexion Robotics**, where I built an agentic framework that uses vision-language models to help robots execute multi-step tasks in real-world settings. Previously, I also worked in finance.
 
-I also have hands-on experience with **VLMs/VLAs for robotics**: at **Flexion Robotics**, I built an **agentic framework** that uses vision-language models to help robots execute multi-step tasks in real-world settings.
+I like hard math, clean experiments, and systems that survive contact with real robots.
 
-Lately, I have been playing around with:
-
-1. **Stochastic optimizers for deep reinforcement learning**, including large-scale HPO for PPO-style training and a promising modification to how **AdamW** is applied to the **GRPO** objective.
-2. **New differentially private optimizers for LLMs**, especially regimes where strong privacy is required.
-3. **Reasoning efficiency in LLMs**, including **chain-of-thought compression**.
-
-Drop me an email :)
-**eneamonziocompagnoni@gmail.com**
+Drop me an email: **eneamonziocompagnoni@gmail.com**
