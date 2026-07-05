@@ -10,7 +10,7 @@ redirect_from:
 
 [14] [A Diffusion Approximation for Temporal-Difference Learning with Linear Features under Markovian Noise](https://openreview.net/forum?id=vLK7MNX5x4),\
 M. Forzo, A. Russo, E. Monzio Compagnoni, A. Pacchiano,\
-In Proc. of DEMO Workshop at ICML, 2026.\
+In Proc. of Decision-Making from Offline Datasets to Online Adaptation: Black-Box Optimization to Reinforcement Learning (DEMO) Workshop at ICML, 2026.\
 [Download paper here](https://openreview.net/pdf?id=vLK7MNX5x4)
 
 [13] [Frontier Learning: Training LLM Reasoners at the Edge of Capability](https://openreview.net/forum?id=DkISgnuYHU),\
