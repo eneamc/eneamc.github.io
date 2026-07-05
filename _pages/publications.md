@@ -8,6 +8,36 @@ redirect_from:
   - /publications.html
 ---
 
+[14] [A Diffusion Approximation for Temporal-Difference Learning with Linear Features under Markovian Noise](https://arxiv.org/abs/2606.18183),\
+M. Forzo, E. Monzio Compagnoni, A. Russo, A. Pacchiano,\
+arXiv preprint arXiv:2606.18183, 2026.\
+[Download paper here](https://arxiv.org/pdf/2606.18183)
+
+[13] [Frontier Learning: Training LLM Reasoners at the Edge of Capability](https://openreview.net/forum?id=DkISgnuYHU),\
+S. S. Ramesh\*, R. Faro\*, E. Monzio Compagnoni, I. Bogunovic, A. Lucchi,\
+In Proc. of ICML Workshop on Foundations of Deep Generative Models (FoGen), 2026.\
+[Download paper here](https://openreview.net/pdf?id=DkISgnuYHU)
+
+[12] [Beyond a Single Explanation of the Adam--SGD Gap](https://arxiv.org/abs/2606.14259),\
+C. Zhang, R. Islamov, E. Monzio Compagnoni, J. Pang, A. Lucchi, A. Orvieto,\
+arXiv preprint arXiv:2606.14259, 2026.\
+[Download paper here](https://arxiv.org/pdf/2606.14259)
+
+[11] [On the Interaction of Batch Noise, Adaptivity, and Compression, under $(L_0,L_1)$-Smoothness: An SDE Approach](https://arxiv.org/abs/2506.00181),\
+E. Monzio Compagnoni, R. Islamov, F. N. Proske, A. Lucchi, A. Orvieto, E. Gorbunov,\
+In Proc. of the Forty-Third International Conference on Machine Learning (ICML), 2026.\
+[Download paper here](https://openreview.net/pdf?id=Pmsc4yytlf)
+
+[10] [Adaptive Methods Are Preferable in High Privacy Settings: An SDE Perspective](https://openreview.net/forum?id=hSpA4DAoMk),\
+E. Monzio Compagnoni, A. Stanghellini, R. Islamov, A. Lucchi, A. Koloskova,\
+In Proc. of International Conference on Learning Representations (ICLR), 2026.\
+[Download paper here](https://openreview.net/pdf?id=hSpA4DAoMk)
+
+[9] [Unified Perspectives on Balancedness and Parameter-norm Evolution in Neural Nets](https://openreview.net/forum?id=KAHuXArnNt),\
+J. Singh, E. Monzio Compagnoni, A. Orvieto,\
+In Proc. of Scientific Methods for Understanding Deep Learning Workshop at ICLR, 2026.\
+[Download paper here](https://openreview.net/pdf?id=KAHuXArnNt)
+
 [8] [On the Interaction of Noise, Compression Role, and Adaptivity under (L_0, L_1)-Smoothness: An SDE-based Approach](https://openreview.net/forum?id=u2cBOZNtcc),\
 E. Monzio Compagnoni, R. Islamov, A. Orvieto, E. Gorbunov,\
 In Proc. of High-dimensional Learning Dynamics at ICML, 2025.\
