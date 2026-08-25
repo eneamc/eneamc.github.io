@@ -1,28 +1,56 @@
 ---
 permalink: /
 title: ""
-excerpt: "Intrinsic intern; PhD candidate in stochastic optimization and deep learning, graduating October 2026."
+excerpt: "Research intern at Google / Intrinsic and final-year PhD candidate working on model optimization, cross-platform edge deployment, and stochastic optimization."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-# Intern at Intrinsic (Google) · PhD Candidate, graduating October 2026
+# Research Intern at Google / Intrinsic · PhD Candidate
 
-I am a final-year PhD candidate in **Stochastic Optimization for Deep Learning** at the **University of Basel (Switzerland)**, supervised by Prof. Dr. [Aurelien Lucchi](https://omls.dmi.unibas.ch/en/persons/aurelien-lucchi/). I expect to graduate in **October 2026**.
+<div class="profile-kicker">Model optimization · Cross-platform edge deployment · Stochastic optimization</div>
 
-I am currently an **Intern at Intrinsic, a robotics company of Google**, working at the intersection of **robotics** and **scalable optimization**.
+I work at the intersection of **model optimization, efficient inference, and the mathematics of modern training**.
 
-I enjoy turning theory into training improvements you can measure. My current interests are:
+At **Google / Intrinsic**, I work on **model compression, inference optimization, and cross-platform computer-vision deployment for robotic perception**. I build reproducible end-to-end workflows spanning **PTQ and QAT, distillation, ONNX export, graph surgery, accelerator compilation, runtime integration, and on-device validation** across **Qualcomm and SiMa.ai accelerator platforms**. I profile accuracy, latency, throughput, memory footprint, numerical fidelity, and accelerator coverage to understand the trade-offs required to move research models onto heterogeneous edge hardware.
 
-1. **Stochastic optimization for deep learning**, from theory to optimizer design.
-2. **Reinforcement learning for robotics**, including PPO-style training and large-scale hyperparameter optimization.
-3. **VLM/VLA systems for real-world robots**, including agentic frameworks for multi-step tasks.
-4. **Efficient and private LLM training**, including differentially private optimizers and chain-of-thought compression.
+Alongside this, I am a final-year PhD candidate in **Stochastic Optimization for Deep Learning** at the **University of Basel**, supervised by Prof. Dr. [Aurelien Lucchi](https://omls.dmi.unibas.ch/en/persons/aurelien-lucchi/), with expected graduation in **October 2026**. My research uses stochastic differential equations to understand adaptive optimizers, batch-size scaling laws, compressed and distributed learning, and differential privacy.
 
-Before Intrinsic, I worked on robotics/VLM systems at **Flexion Robotics**, where I built an agentic framework that uses vision-language models to help robots execute multi-step tasks in real-world settings. Previously, I also worked in finance at UBS.
+<div class="profile-actions">
+  <a class="profile-action profile-action--primary" href="/cv/">View CV</a>
+  <a class="profile-action" href="/publications/">Publications</a>
+  <a class="profile-action" href="/talks/">Talks</a>
+  <a class="profile-action" href="https://scholar.google.com/citations?user=6qKgak8AAAAJ&hl=en">Google Scholar</a>
+</div>
 
-I like hard math, clean experiments, and systems that survive contact with real robots.
+## Current focus
 
-Drop me an email: **eneamonziocompagnoni@gmail.com**
+- **Efficient models for robotics:** PTQ/QAT, distillation, graph surgery, accelerator compilation, profiling, and cross-platform on-device deployment.
+- **Optimizer dynamics and scaling laws:** connecting SDE-based theory to measurable training behavior and hyperparameter transfer.
+- **Reliable modern training:** adaptive optimization, reinforcement learning, compression, and high-privacy learning.
+
+## 2026 highlights
+
+<div class="profile-highlights">
+  <article class="profile-highlight">
+    <span class="profile-highlight__label">Google DeepMind · Aug 11</span>
+    <h3>Understanding Optimizer Dynamics and Scaling Laws via SDEs</h3>
+    <p>Invited research talk connecting optimizer theory, scaling rules, and practical training dynamics.</p>
+  </article>
+  <article class="profile-highlight">
+    <span class="profile-highlight__label">ICML 2026 · Seoul</span>
+    <h3>Batch Noise, Adaptivity, and Compression</h3>
+    <p>Presentation of our SDE analysis under <em>(L<sub>0</sub>, L<sub>1</sub>)</em>-smoothness.</p>
+  </article>
+  <article class="profile-highlight">
+    <span class="profile-highlight__label">ICLR 2026 · Rio de Janeiro</span>
+    <h3>Adaptive Methods in High-Privacy Settings</h3>
+    <p>Presentation of our work on private optimization through the lens of SDEs.</p>
+  </article>
+</div>
+
+Before Intrinsic, I built VLM/VLA-based agentic systems for real-world robots at **Flexion Robotics**, worked on scalable machine learning at **Yahoo Research**, and spent three years as an **AI Quantitative Analyst at UBS**.
+
+You can reach me at **[eneamonziocompagnoni@gmail.com](mailto:eneamonziocompagnoni@gmail.com)**.

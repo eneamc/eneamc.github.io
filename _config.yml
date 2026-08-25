@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Enea Monzio Compagnoni"
 title_separator          : "-"
 name                     : &name "Enea Monzio Compagnoni"
-description              : &description "Intern at Intrinsic, a robotics company of Google, and PhD candidate in stochastic optimization for deep learning, graduating October 2026."
+description              : &description "Research intern at Google / Intrinsic and final-year PhD candidate working on model optimization, cross-platform edge deployment, and stochastic optimization."
 url                      : https://eneamc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eneamc/eneamc.github.io"
@@ -66,9 +66,12 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Enea Monzio Compagnoni"
+  links:
+    - "https://www.linkedin.com/in/eneamc"
+    - "https://scholar.google.com/citations?user=6qKgak8AAAAJ&hl=en"
+    - "https://github.com/eneamc"
 
 
 # Analytics
@@ -80,11 +83,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Enea Monzio Compagnoni, MSc. MSc."
+  name             : "Enea Monzio Compagnoni"
   avatar           : "profile.jpg"
-  bio              : "Intern at Intrinsic, a robotics company of Google, and final-year PhD candidate at the University of Basel. I work on stochastic optimization, deep learning, and robotics; expected graduation: October 2026."
+  bio              : "Research Intern at Google / Intrinsic and final-year PhD candidate at the University of Basel. Model optimization, cross-platform edge deployment, and stochastic optimization."
   location         : "Zürich, Switzerland"
-  employer         : "Intrinsic / University of Basel"
+  employer         : "Google / Intrinsic · University of Basel"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=6qKgak8AAAAJ&hl=en"
   email            : "eneamonziocompagnoni@gmail.com"
@@ -102,14 +105,14 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "eneamc"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "@EneaMC"
+  twitter          : "EneaMC"
   vine             :
   weibo            :
   xing             :

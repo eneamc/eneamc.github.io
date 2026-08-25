@@ -36,3 +36,105 @@
 
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* 2026 profile refresh */
+.profile-kicker {
+  margin: -0.35rem 0 1.25rem;
+  color: #5b6570;
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.025em;
+}
+
+.profile-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin: 1.35rem 0 1.8rem;
+}
+
+.profile-action {
+  display: inline-block;
+  padding: 0.58rem 0.9rem;
+  border: 1px solid #00a651;
+  border-radius: 0.35rem;
+  color: #008d45 !important;
+  font-weight: 700;
+  text-decoration: none !important;
+  transition: background-color 120ms ease, color 120ms ease, transform 120ms ease;
+}
+
+.profile-action:hover {
+  background: rgba(0, 166, 81, 0.08);
+  transform: translateY(-1px);
+}
+
+.profile-action--primary,
+.profile-action--primary:hover {
+  background: #00a651;
+  color: #fff !important;
+}
+
+.profile-highlights {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.9rem;
+  margin: 0.9rem 0 1.6rem;
+}
+
+.profile-highlight {
+  padding: 1rem;
+  border: 1px solid #dde3e8;
+  border-radius: 0.45rem;
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(18, 32, 48, 0.05);
+}
+
+.profile-highlight h3 {
+  margin: 0.35rem 0 0.45rem;
+  font-size: 1rem;
+  line-height: 1.28;
+}
+
+.profile-highlight p {
+  margin: 0;
+  color: #4f5963;
+  font-size: 0.88rem;
+  line-height: 1.45;
+}
+
+.profile-highlight__label,
+.talk-entry__date {
+  color: #008d45;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.035em;
+  text-transform: uppercase;
+}
+
+.talk-entry {
+  margin: 0 0 1rem;
+  padding: 1rem 1.05rem;
+  border-left: 3px solid #00a651;
+  background: rgba(0, 166, 81, 0.045);
+}
+
+.talk-entry h3 {
+  margin: 0.25rem 0 0.35rem;
+  font-size: 1.05rem;
+  line-height: 1.35;
+}
+
+.talk-entry p {
+  margin: 0.35rem 0 0;
+}
+
+.talk-entry__meta {
+  color: #4f5963;
+}
+
+@media (max-width: 850px) {
+  .profile-highlights {
+    grid-template-columns: 1fr;
+  }
+}
