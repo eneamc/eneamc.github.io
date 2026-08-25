@@ -9,24 +9,14 @@ redirect_from:
 
 ## 2026
 
-<div class="talk-entry">
-  <div class="talk-entry__date">August 11, 2026</div>
-  <h3>Understanding Optimizer Dynamics and Scaling Laws via SDEs</h3>
-  <p class="talk-entry__meta"><strong>Invited research talk</strong> · Google DeepMind</p>
-  <p>An overview of how stochastic differential equations can explain optimizer dynamics, support scaling-law derivations, and guide practical hyperparameter transfer.</p>
-</div>
+### Understanding Optimizer Dynamics and Scaling Laws via SDEs
+1. **Talk** at *Google DeepMind*, 2026-08-11
 
-<div class="talk-entry">
-  <div class="talk-entry__date">July 6–11, 2026</div>
-  <h3><a href="https://openreview.net/forum?id=Pmsc4yytlf">On the Interaction of Batch Noise, Adaptivity, and Compression, under (L<sub>0</sub>, L<sub>1</sub>)-Smoothness: An SDE Approach</a></h3>
-  <p class="talk-entry__meta"><strong>Paper presentation</strong> · International Conference on Machine Learning (ICML 2026) · Seoul, South Korea</p>
-</div>
+### [On the Interaction of Batch Noise, Adaptivity, and Compression, under (L<sub>0</sub>, L<sub>1</sub>)-Smoothness: An SDE Approach](https://openreview.net/forum?id=Pmsc4yytlf)
+1. **Paper presentation** at *International Conference on Machine Learning (ICML 2026)*, 2026-07-06--2026-07-11, Seoul, South Korea
 
-<div class="talk-entry">
-  <div class="talk-entry__date">April 23–27, 2026</div>
-  <h3><a href="https://openreview.net/forum?id=hSpA4DAoMk">Adaptive Methods Are Preferable in High Privacy Settings: An SDE Perspective</a></h3>
-  <p class="talk-entry__meta"><strong>Paper presentation</strong> · International Conference on Learning Representations (ICLR 2026) · Rio de Janeiro, Brazil</p>
-</div>
+### [Adaptive Methods Are Preferable in High Privacy Settings: An SDE Perspective](https://openreview.net/forum?id=hSpA4DAoMk)
+1. **Paper presentation** at *International Conference on Learning Representations (ICLR 2026)*, 2026-04-23--2026-04-27, Rio de Janeiro, Brazil
 
 ## Earlier talks and conference presentations
 

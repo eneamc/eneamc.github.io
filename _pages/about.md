@@ -31,26 +31,6 @@ Alongside this, I am a final-year PhD candidate in **Stochastic Optimization for
 - **Optimizer dynamics and scaling laws:** connecting SDE-based theory to measurable training behavior and hyperparameter transfer.
 - **Reliable modern training:** adaptive optimization, reinforcement learning, compression, and high-privacy learning.
 
-## 2026 highlights
-
-<div class="profile-highlights">
-  <article class="profile-highlight">
-    <span class="profile-highlight__label">Google DeepMind · Aug 11</span>
-    <h3>Understanding Optimizer Dynamics and Scaling Laws via SDEs</h3>
-    <p>Invited research talk connecting optimizer theory, scaling rules, and practical training dynamics.</p>
-  </article>
-  <article class="profile-highlight">
-    <span class="profile-highlight__label">ICML 2026 · Seoul</span>
-    <h3>Batch Noise, Adaptivity, and Compression</h3>
-    <p>Presentation of our SDE analysis under <em>(L<sub>0</sub>, L<sub>1</sub>)</em>-smoothness.</p>
-  </article>
-  <article class="profile-highlight">
-    <span class="profile-highlight__label">ICLR 2026 · Rio de Janeiro</span>
-    <h3>Adaptive Methods in High-Privacy Settings</h3>
-    <p>Presentation of our work on private optimization through the lens of SDEs.</p>
-  </article>
-</div>
-
 Before Intrinsic, I built VLM/VLA-based agentic systems for real-world robots at **Flexion Robotics**, worked on scalable machine learning at **Yahoo Research**, and spent three years as an **AI Quantitative Analyst at UBS**.
 
 You can reach me at **[eneamonziocompagnoni@gmail.com](mailto:eneamonziocompagnoni@gmail.com)**.
