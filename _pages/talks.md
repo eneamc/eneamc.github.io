@@ -13,10 +13,10 @@ redirect_from:
 1. **Talk** at *Google DeepMind*, 2026-08-11
 
 ### [On the Interaction of Batch Noise, Adaptivity, and Compression, under (L<sub>0</sub>, L<sub>1</sub>)-Smoothness: An SDE Approach](https://openreview.net/forum?id=Pmsc4yytlf)
-1. **Paper presentation** at *International Conference on Machine Learning (ICML 2026)*, 2026-07-06--2026-07-11, Seoul, South Korea
+1. **Poster** at *International Conference on Machine Learning (ICML 2026)*, 2026-07-06--2026-07-11, Seoul, South Korea
 
 ### [Adaptive Methods Are Preferable in High Privacy Settings: An SDE Perspective](https://openreview.net/forum?id=hSpA4DAoMk)
-1. **Paper presentation** at *International Conference on Learning Representations (ICLR 2026)*, 2026-04-23--2026-04-27, Rio de Janeiro, Brazil
+1. **Poster** at *International Conference on Learning Representations (ICLR 2026)*, 2026-04-23--2026-04-27, Rio de Janeiro, Brazil
 
 ## Earlier talks and conference presentations
 
