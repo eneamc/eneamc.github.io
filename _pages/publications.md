@@ -81,6 +81,6 @@ The Symbiosis of Deep Learning and Differential Equations: DLDE Workshop - NeurI
 
 \* denotes equal contributions.
 
-## PhD thesis and code
+## PhD thesis
 
 *Modern Optimizers as Noise-Shaping Mechanisms: A Stochastic Differential Equation Perspective*, University of Basel, 2026.
