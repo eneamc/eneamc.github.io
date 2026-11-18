@@ -43,7 +43,7 @@ These measurements refer to my Qualcomm deployment work. The public model paper 
 
 The A100 latency measurements and the Qualcomm portability proof of concept are separate results.
 
-[Public model paper](https://openreview.net/forum?id=WNZ4Dr57JS) · [Public BOP entry](https://bop.felk.cvut.cz/method_info/1778/)
+[Public model paper](https://openreview.net/forum?id=WNZ4Dr57JS)
 
 ## Flexion Reflect v0
 
@@ -53,12 +53,12 @@ The A100 latency measurements and the Qualcomm portability proof of concept are 
 
 **My contribution:** built agent components for autonomous robotic operation and integrated sim-to-real workflows, contributing to a successful demonstration on a physical robot.
 
-In separate work on humanoid locomotion, I tuned a training pipeline to achieve **2× faster training and 5% higher task reward**.
+In separate work on humanoid locomotion, I improved the existing training pipeline to achieve **2× faster training and 5% higher task reward**.
 
 [Public project and team demo](https://flexion.ai/news/flexion-reflect-v0-towards-generalizable-robot-autonomy)
 
 ## Research and earlier experience
 
-My academic work studies optimizer dynamics, hyperparameter scaling laws, compressed and distributed learning, and differential privacy. See [publications](/publications/) and [the numerical notebooks accompanying my PhD thesis](https://github.com/eneamc/Code_PhD_Thesis).
+My academic work studies optimizer dynamics, hyperparameter scaling laws, compressed and distributed learning, and differential privacy. See [publications](/publications/).
 
 Earlier, I worked on scalable machine learning at **Yahoo Research** and applied machine learning in finance at **UBS**. My [CV](/cv/) contains the full experience and technical background.
