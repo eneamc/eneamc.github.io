@@ -1,36 +1,58 @@
 ---
 permalink: /
-title: ""
-excerpt: "Research intern at Google / Intrinsic and final-year PhD candidate working on model optimization, cross-platform edge deployment, and stochastic optimization."
+title: "Deep Learning Researcher & Engineer"
+excerpt: "Stochastic optimization, training dynamics, and efficient ML systems. Research Intern at Google (Intrinsic); PhD in Computer Science, summa cum laude, University of Basel."
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-# Research Intern at Google / Intrinsic · PhD Candidate
+<div class="profile-kicker">Stochastic optimization · Training dynamics · Efficient inference</div>
 
-<div class="profile-kicker">Model optimization · Cross-platform edge deployment · Stochastic optimization</div>
+I study how optimization shapes deep learning and engineer models to run efficiently on real hardware.
 
-I work at the intersection of **model optimization, efficient inference, and the mathematics of modern training**.
+I am a **Research Intern at Google (Intrinsic)** in Zürich, working on **model compression, inference optimization, and deployment for robotic perception**. My work spans PTQ/QAT, distillation, ONNX graph transformations, GPU profiling, accelerator compilation, and on-device validation across GPU and NPU platforms, including Qualcomm and SiMa.ai.
 
-At **Google / Intrinsic**, I work on **model compression, inference optimization, and cross-platform computer-vision deployment for robotic perception**. I build reproducible end-to-end workflows spanning **PTQ and QAT, distillation, ONNX export, graph surgery, accelerator compilation, runtime integration, and on-device validation** across **Qualcomm and SiMa.ai accelerator platforms**. I profile accuracy, latency, throughput, memory footprint, numerical fidelity, and accelerator coverage to understand the trade-offs required to move research models onto heterogeneous edge hardware.
-
-Alongside this, I am a final-year PhD candidate in **Stochastic Optimization for Deep Learning** at the **University of Basel**, supervised by Prof. Dr. [Aurelien Lucchi](https://omls.dmi.unibas.ch/en/persons/aurelien-lucchi/), with expected graduation in **October 2026**. My research uses stochastic differential equations to understand adaptive optimizers, batch-size scaling laws, compressed and distributed learning, and differential privacy.
+I completed my **PhD in Computer Science at the University of Basel in November 2026, graduating summa cum laude**, under the supervision of Prof. Dr. [Aurelien Lucchi](https://omls.dmi.unibas.ch/en/persons/aurelien-lucchi/). My research uses stochastic differential equations to understand optimizer dynamics, hyperparameter scaling laws, compressed and distributed learning, and differential privacy.
 
 <div class="profile-actions">
   <a class="profile-action profile-action--primary" href="/cv/">View CV</a>
   <a class="profile-action" href="/publications/">Publications</a>
+  <a class="profile-action" href="/work/">Selected work</a>
   <a class="profile-action" href="/talks/">Talks</a>
-  <a class="profile-action" href="https://scholar.google.com/citations?user=6qKgak8AAAAJ&hl=en">Google Scholar</a>
 </div>
 
-## Current focus
+## Selected work
 
-- **Efficient models for robotics:** PTQ/QAT, distillation, graph surgery, accelerator compilation, profiling, and cross-platform on-device deployment.
-- **Optimizer dynamics and scaling laws:** connecting SDE-based theory to measurable training behavior and hyperparameter transfer.
-- **Reliable modern training:** adaptive optimization, reinforcement learning, compression, and high-privacy learning.
+- **[No Bias Stereo](/work/#no-bias-stereo):** optimized stereo inference on dual Qualcomm NPUs, reaching **10.76 FPS (3.75× baseline throughput)** through graph rewrites, operator fusion, and selective quantization.
+- **[3PTv2](/work/#pose-estimation):** reduced multi-view 6D pose-estimation latency on NVIDIA A100 from **6.8 to 3.1 seconds per frame (54%)**, with a separate Qualcomm CPU/NPU portability proof of concept.
+- **[Flexion Reflect v0](/work/#flexion-reflect-v0):** built agent components and integrated sim-to-real workflows, contributing to an autonomous-operation demonstration on a physical robot.
 
-Before Intrinsic, I built VLM/VLA-based agentic systems for real-world robots at **Flexion Robotics**, worked on scalable machine learning at **Yahoo Research**, and spent three years as an **AI Quantitative Analyst at UBS**.
+[Read about my contributions, methods, and results →](/work/)
+
+## Research
+
+My work connects mathematical models of optimization with experiments on language and vision models. I have **seven first-author conference papers** across ICML, ICLR, AISTATS, and IJCNN, including an **AISTATS 2025 Oral**.
+
+- **Optimizer dynamics and scaling laws:** understanding how noise and adaptivity shape training, and how hyperparameters should change with batch size.
+- **Distributed and compressed learning:** studying the interaction between communication compression, gradient noise, and stability.
+- **Private and robust optimization:** understanding how privacy noise affects optimization and hyperparameter transfer.
+
+My PhD thesis, *Modern Optimizers as Noise-Shaping Mechanisms: A Stochastic Differential Equation Perspective*, brings these themes together. [Numerical notebooks accompanying the thesis](https://github.com/eneamc/Code_PhD_Thesis) are publicly available.
+
+[Publications and research details →](/publications/)
+
+## Selected research talks
+
+- **Google DeepMind**, 11 August 2026 — *Understanding Optimizer Dynamics and Scaling Laws via SDEs*.
+- **Caltech, Anima Anandkumar’s Lab**, 5 March 2025 — *Unbiased and Sign Compression in Distributed Learning: Comparing Noise Resilience via SDEs*.
+- **Nokia Bell Labs**, 29 January 2025 — *Unbiased and Sign Compression in Distributed Learning: Comparing Noise Resilience via SDEs*.
+
+[All talks and conference presentations →](/talks/)
+
+## Background and contact
+
+Before Google (Intrinsic), I worked on robot autonomy at **Flexion Robotics**, scalable machine learning at **Yahoo Research**, and applied machine learning in finance during three years as an **AI Quantitative Analyst at UBS**. My background spans mathematics and quantitative finance; I have also [taught deep learning and optimization](/teaching/) and mentored master’s research students.
 
 You can reach me at **[eneamonziocompagnoni@gmail.com](mailto:eneamonziocompagnoni@gmail.com)**.
