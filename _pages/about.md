@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div class="profile-kicker">Stochastic optimization · Training dynamics · Efficient inference</div>
+<div class="profile-kicker">Stochastic optimization · Scaling Laws · Model Optimization</div>
 
 I study how optimization shapes deep learning and optimize models to run efficiently on real hardware.
 
